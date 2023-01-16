@@ -46,7 +46,7 @@
   
   *Note: This project is using a dummy jsonplaceholder api, so data will be same everytime you hit the endpoints.*
   
-### Example
+### Screenshots
   Top Posts
   ![top_posts](https://user-images.githubusercontent.com/109772802/212638999-12bc0f15-9352-4a4c-8b56-f1e4cbf11a41.jpg)
   
