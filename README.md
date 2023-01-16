@@ -35,7 +35,7 @@
  3. Search the comments based on all the available fields. Endpoint can match any word or partial text.
 
   ```
-  - comment_name
+  	- comment_name
 	- comment_email
 	- comment_body
 	- post_title
