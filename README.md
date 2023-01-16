@@ -1,4 +1,4 @@
-# REST API to view JSON Posts
+# REST API - JSON Posts
 
 ### The is solution repo for the test [Build a REST API](https://github.com/tribehired-devs/backend-test)
 
