@@ -30,6 +30,7 @@
   ```
 
   http://localhost:5000/comment_filter?post_id={post_id}
+  
   http://localhost:5000/comment_filter?post_title={post_title}
   
  3. Search the comments based on all the available fields. Endpoint can match any word or partial text.
